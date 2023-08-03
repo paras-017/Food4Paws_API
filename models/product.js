@@ -35,6 +35,9 @@ const productSchema = mongoose.Schema({
     stars: {
         type: Number
     },
+    review: {
+        type: Number
+    },
     images: {
         type: mongoose.Mixed
       },
