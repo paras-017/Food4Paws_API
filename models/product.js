@@ -38,6 +38,9 @@ const productSchema = mongoose.Schema({
     review: {
         type: Number
     },
+    mainImage: {
+        type: String
+    },
     images: {
         type: mongoose.Mixed
       },
