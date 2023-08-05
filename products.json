@@ -47,12 +47,12 @@
     "stock": 67,
     "stars": 4,
     "review":319,
-    "mainImage":"https://tinyurl.com/2p8byu37",
+    "mainImage":"https://tinyurl.com/247ddtwm",
     "images": [
-      { "id": 1, "url": "https://tinyurl.com/2p8byu37" },
-      { "id": 2, "url": "https://tinyurl.com/2s3mems9" },
-      { "id": 3, "url": "https://tinyurl.com/535d5ct5" },
-      { "id": 4, "url": "https://tinyurl.com/bdf9wdum" }
+      { "id": 1, "url": "https://tinyurl.com/247ddtwm" },
+      { "id": 2, "url": "https://m.media-amazon.com/images/I/613sTXIMQtL._SL1000_.jpg" },
+      { "id": 3, "url": "https://m.media-amazon.com/images/I/61ZG7HSjD6L._SL1000_.jpg" },
+      { "id": 4, "url": "https://m.media-amazon.com/images/I/517CXiXnS6L._SL1000_.jpg" }
      ]
   },
     
@@ -113,7 +113,7 @@
             },
            
             {
-              "20kg":  {
+              "1.1kg":  {
                   "originalPrice": 410,
                   "dealPrice": 390,
                   "discontPercent": 0,
@@ -401,7 +401,7 @@
    
   {
     "dealPrice":315,
-    "name": "Taiyo Special Fish Food",
+    "name": "Taiyo Pluss Discovery Special Fish Food",
     "brand": "Taiyo",
     "price":[
             {
@@ -409,7 +409,7 @@
                   "originalPrice": 355,
                   "dealPrice": 315,
                   "discontPercent":10,
-                  "ImgbySize":"https://tinyurl.com/34n8njjn"
+                  "ImgbySize":"https://tinyurl.com/39bd85pd"
                 }
             }            
     ],
@@ -421,12 +421,12 @@
     "stock": 12,
     "stars": 3.7,
     "review":859,
-    "mainImage":"https://tinyurl.com/34n8njjn",
+    "mainImage":"https://tinyurl.com/39bd85pd",
     "images": [
-      { "id": 1, "url": "https://tinyurl.com/34n8njjn" },
-      { "id": 2, "url": "https://tinyurl.com/kascs6yp" },
-      { "id": 3, "url": "https://tinyurl.com/bdhzbmm3" },
-      { "id": 4, "url": "https://tinyurl.com/yrdfaydz" }
+      { "id": 1, "url": "https://tinyurl.com/39bd85pd" },
+      { "id": 2, "url": "https://tinyurl.com/232z3pt5" },
+      { "id": 3, "url": "https://tinyurl.com/ztccn7nh" },
+      { "id": 4, "url": "https://tinyurl.com/22n56bfv" }
      ]
   },
        
@@ -440,7 +440,7 @@
                   "originalPrice": 499,
                   "dealPrice": 414,
                   "discontPercent":17,
-                  "ImgbySize":"https://tinyurl.com/3h3jzj32"
+                  "ImgbySize":"https://tinyurl.com/yck4pfjh"
                 }
             }            
     ],
@@ -452,12 +452,12 @@
     "stock": 22,
     "stars": 4.2,
     "review":123,
-    "mainImage":"https://tinyurl.com/3h3jzj32",
+    "mainImage":"https://tinyurl.com/yck4pfjh",
     "images": [
-      { "id": 1, "url": "https://tinyurl.com/3h3jzj32" },
-      { "id": 2, "url": "https://tinyurl.com/24n9y4sb" },
-      { "id": 3, "url": "https://tinyurl.com/5xx2wbey" },
-      { "id": 4, "url": "https://tinyurl.com/2p8ud4ec" }
+      { "id": 1, "url": "https://tinyurl.com/yck4pfjh" },
+      { "id": 2, "url": "https://tinyurl.com/49wuypwv" },
+      { "id": 3, "url": "https://tinyurl.com/y3syp3k4" },
+      { "id": 4, "url": "https://tinyurl.com/yc2wtrth" }
      ]
   },
     
@@ -471,7 +471,7 @@
                   "originalPrice": 1150,
                   "dealPrice": 1093,
                   "discontPercent":5,
-                  "ImgbySize":"https://tinyurl.com/4uwrb9d6"
+                  "ImgbySize":"https://tinyurl.com/2exwtbn2"
                 }
             },            
             {
@@ -479,7 +479,7 @@
                   "originalPrice": 4850,
                   "dealPrice": 4200,
                   "discontPercent":7,
-                  "ImgbySize":"https://tinyurl.com/4s76v7ds"
+                  "ImgbySize":"https://tinyurl.com/4h9kjc8h"
                 }
             }
     ],
@@ -491,12 +491,12 @@
     "stock": 30,
     "stars": 4.6,
     "review":657,
-    "mainImage":"https://tinyurl.com/4uwrb9d6",
+    "mainImage":"https://tinyurl.com/2exwtbn2",
     "images": [
-      { "id": 1, "url": "https://tinyurl.com/4uwrb9d6" },
-      { "id": 2, "url": "https://tinyurl.com/c5pkv5zj" },
-      { "id": 3, "url": "https://tinyurl.com/yc897uma" },
-      { "id": 4, "url": "https://tinyurl.com/2t43zjmu" }
+      { "id": 1, "url": "https://tinyurl.com/2exwtbn2" },
+      { "id": 2, "url": "https://tinyurl.com/fvf5kpz5" },
+      { "id": 3, "url": "https://tinyurl.com/39ab8j88" },
+      { "id": 4, "url": "https://tinyurl.com/ym5tejjj" }
      ]
   },
     
@@ -510,7 +510,7 @@
                   "originalPrice": 499,
                   "dealPrice": 399,
                   "discontPercent":20,
-                  "ImgbySize":"https://tinyurl.com/yju2ss62"
+                  "ImgbySize":"https://tinyurl.com/fzk6tmmm"
                 }
             }            
     ],
@@ -522,12 +522,12 @@
     "stock": 48,
     "stars": 4.5,
     "review":1301,
-    "mainImage":"https://tinyurl.com/yju2ss62",
+    "mainImage":"https://tinyurl.com/fzk6tmmm",
     "images": [
-      { "id": 1, "url": "https://tinyurl.com/yju2ss62" },
-      { "id": 2, "url": "https://tinyurl.com/2ucm5aw3" },
-      { "id": 3, "url": "https://tinyurl.com/39ze3695" },
-      { "id": 4, "url": "https://tinyurl.com/27tkd6ab" }
+      { "id": 1, "url": "https://tinyurl.com/fzk6tmmm" },
+      { "id": 2, "url": "https://tinyurl.com/5ukm8trw" },
+      { "id": 3, "url": "https://tinyurl.com/2824tbap" },
+      { "id": 4, "url": "https://tinyurl.com/bdew4nce" }
      ]
   },
 
